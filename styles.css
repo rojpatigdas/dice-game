@@ -39,3 +39,22 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.play-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: #EEEEEE;
+  background-color: #4c8b5b;
+  text-decoration: none;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.play-button:hover {
+  background-color: #218838;
+}
